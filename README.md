@@ -32,7 +32,7 @@ This is a simple interactive game where players must guess randomly generated nu
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/random-number-guess.git
+   git clone  https://github.com/Rohanhumane/random_number_guessor_game_with_timeinterval.git
    ```
 2. Navigate to the project folder:
    ```sh
